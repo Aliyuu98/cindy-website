@@ -26,7 +26,7 @@ const initialCategories = [
 	{
 		title: "Restaurant/Café Interior",
 		desc: "Design that elevates the Dinning experience.",
-		img: "/category5.png",
+		img: "/category20.jpeg",
 	},
 	{
 		title: "Furniture  Selection/customization",
